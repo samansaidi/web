@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    background-color: brown;
+}
+.container{
+    background-color: brown;
+    position: absolute;top: 150px;
+    
+}
